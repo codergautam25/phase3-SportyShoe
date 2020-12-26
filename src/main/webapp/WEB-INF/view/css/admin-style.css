@@ -1,0 +1,40 @@
+@charset "ISO-8859-1";
+div.admin-header{
+	margin : 0;
+	padding : 5px 0;
+	height : 45px;
+	background-color: #000066;
+	color : #fff;
+	text-align : center;
+	font-family: cursive;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(0, 255, 128);
+}
+li{
+  display : inline-block;
+}
+li a{
+  display: block;
+  color: #000;
+  text-align: center;
+  padding: 10px 16px;
+  text-decoration: none;
+  font-size: 18px;
+}
+li a:hover {
+  background-color: #000;
+  color : #fff;
+}
+div.admin-footer{
+	margin : 0;
+	padding : 5px 0;
+	height : 50px;
+	background-color: #000;
+	color : #fff;
+	text-align : center;
+}
