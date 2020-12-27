@@ -54,7 +54,7 @@ ${error }
  		<label>Confirm new Password*</label><br>
  		<input name=pwd2 maxlength=10 type="password" required="required"><br><br>
  		
- 			<button>Login</button>
+ 			<button>Submit</button>
  		
 </form>
 </div>
